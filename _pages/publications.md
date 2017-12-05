@@ -15,28 +15,62 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Articles
+## Articles
 
-Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). "What we know about games. A scientometric approach to *game studies* in the 2000s", *Games and Culture*, 12(6), p. 563--584, doi: 10.1177/1555412016676661. [url]( http://gac.sagepub.com/content/early/2016/11/17/1555412016676661.abstract).
+Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). "What we know about games. A scientometric approach to *game studies* in the 2000s", *Games and Culture*, 12(6), p. 563--584
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://gac.sagepub.com/content/early/2016/11/17/1555412016676661.abstract)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_game_studies.pdf)
 
-Samuel Coavoux (2016). "Reconnaître un chef d’œuvre. L’influence du statut d’une œuvre dans l’allocation de l’attention des visiteurs au musée d’art". *Regards sociologiques*, 48, p. 23--36.
+Samuel Coavoux (2016). "Reconnaître un chef d’œuvre. L’influence du statut d’une œuvre dans l’allocation de l’attention des visiteurs au musée d’art". *Regards sociologiques*, 48, p. 23--36
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_statut.pdf)
 
-Samuel Coavoux & David Gerber (2016). "Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales". *Sociologie*, 7(2), p. 133--151. [url](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133). [pdf]().
+Samuel Coavoux & David Gerber (2016). "Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales". *Sociologie*, 7(2), p. 133--151 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_famille_jeu.pdf)
 
-Samuel Coavoux (2015). "'Life itself'. L’engagement de Howard Phillips Lovecraft dans le journalisme amateur". *Contextes*, 15, doi: 10.4000/contextes.6031. [url (open access)](http://contextes.revues.org/6031).
+Samuel Coavoux (2015). "'Life itself'. L’engagement de Howard Phillips Lovecraft dans le journalisme amateur". *Contextes*, 15 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://contextes.revues.org/6031).
 
-Samuel Coavoux (2015). "De la mesure du temps à l’analyse des séquences d’action. Dynamique de l’attention dans les études du public des musées". *Nouvelles perspectives en sciences sociales*, 10(2), p. 237--271. doi: 10.7202/1030269ar. [url](https://www.erudit.org/revue/npss/2015/v10/n2/1030269ar.html).
+Samuel Coavoux (2015). "De la mesure du temps à l’analyse des séquences d’action. Dynamique de l’attention dans les études du public des musées". *Nouvelles perspectives en sciences sociales*, 10(2), p. 237--271 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.erudit.org/revue/npss/2015/v10/n2/1030269ar.html)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_visitor_studies.pdf)
 
-Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Jouer aux jeux vidéo en France. Géographie sociale d’une pratique culturelle". *L’espace géographique*, 43(4), p. 308--332. [url](http://www.cairn.info/resume.php?ID_ARTICLE=EG_434_0308).
+Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Jouer aux jeux vidéo en France. Géographie sociale d’une pratique culturelle". *L’espace géographique*, 43(4), p. 308--332 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_434_0308)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo.pdf)
 
-Samuel Coavoux (2012). "Compétence artistique, réception et démocratisation". *Marges*, 15, p. 69--80. [url (open access)](http://marges.revues.org/355).
++ translated into english as Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Playing videogames in France. Social geography of a cultural practice". *L’espace géographique*, 43(4) [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article-E_EG_434_0308--playing-video-games-in-france-social.htm)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo_en.pdf)
 
-Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comment trouver son chemin dans les jeux vidéo ?". *L’espace géographique*, 40(3), p. 245--262. [url](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245).
+Samuel Coavoux (2012). "Compétence artistique, réception et démocratisation". *Marges*, 15, p. 69--80 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://marges.revues.org/355).
+
+Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comment trouver son chemin dans les jeux vidéo ?". *L’espace géographique*, 40(3), p. 245--262 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/terminassian2011_espace_geo.pdf)
+
+## Book chapters
+
+Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
+
+Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lionel Jacquot & Jean-Marc Leveratto (eds.). *Relire Durkheim et Mauss. Émotions : religions, arts, politiques*. Nancy: Éditions Universitaires de Lorraine, p. 187--201
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/.pdf)
+
+Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Situating Play Cultures. A Survey of Videogame Players and Practices in France" in Dawn Stobbart & Monica Evans (eds.). *Engaging with Videogames: Play, Theory and Practice*. Oxford: Inter-Disciplinary Press, p. 37--51.
+
+Samuel Coavoux (2011). "Comment un monde social se construit. L'autonomisation de l'espace du jeu en ligne" in Charles Perraton, Magda Fusaro & Maude Bonenfant (eds.). *Socialisation et communication dans les jeux vidéo*. Montréal: Presses Universitaires de Montréal, p. 105--121
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2011_autonomie_wow.pdf)
+
+Samuel Coavoux (2011). "Ruptures biographiques et écriture du fantastique dans *L’affaire Charles Dexter Ward* de Howard Phillips Lovecraft". in Bernard Lahire (ed.). *Ce qu’ils vivent, ce qu’ils écrivent*. Paris: Éditions des archives contemporaines, p. 369--398
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2011_HPL_rupture.pdf)
+
+Samuel Coavoux (2011). "L’espace social des pratiques de *World of Warcraft*". in Samuel Rufat & Hovig Ter Minassian (eds.). *Les jeux vidéo comme objet de recherche*. Paris: Questions Théoriques, p. 164--180
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2011_espace_social_wow.pdf)
+
+Samuel Coavoux (2010). "The Quantitative / Qualitative Antinomy in Virtual World Studies". in J. Talmadge Wright, David G. Embrick & Andras Lukacs (eds.). *Utopic Dreams and Apocalyptic Fantasies : Critical Approaches to Researching Video Game Play*. New York: Lexington Press, p. 223--244
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2010_quanti_quali.pdf)
+
+Samuel Coavoux (2010). "La carrière des joueurs de *World of Warcraft*". in Sylvie Craipeau, Sébastien Genvo et Brigitte Simonnot (eds.). *Les jeux vidéo au croisement du social, de l’art et de la culture*. Nancy: Presses Universitaires de Nancy, p. 43--58
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2010_carriere_wow.pdf)
 
 <!--
 # Books and edited
 
-# Chapters
 
 # Book reviews
 -->
