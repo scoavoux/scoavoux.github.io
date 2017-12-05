@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "fr-FR"
+title                    : "Samuel Coavoux"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Samuel Coavoux"
+  avatar           : "profile.JPG"
+  bio              : ""
+  location         : "Paris, France"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=iFJDzTUAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "scoavoux"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/4132844/scoa"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@scoavoux"
   vine             :
   weibo            :
   xing             :
