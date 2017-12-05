@@ -9,8 +9,8 @@
 locale                   : "fr-FR"
 title                    : "Samuel Coavoux"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Samuel Coavoux"
+description              : &description ""
 url                      : https://scoavoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : scoavoux
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : "4132844/scoa"
   steam            :
   tumblr           :
-  twitter          : "@scoavoux"
+  twitter          : "scoavoux"
   vine             :
   weibo            :
   xing             :
