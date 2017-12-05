@@ -21,7 +21,7 @@ Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). "What we know about game
 
 Samuel Coavoux (2016). "Reconnaître un chef d’œuvre. L’influence du statut d’une œuvre dans l’allocation de l’attention des visiteurs au musée d’art". *Regards sociologiques*, 48, p. 23--36.
 
-Samuel Coavoux & David Gerber (2016). "Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales". *Sociologie*, 7(2), p. 133--151. [url](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133). [pdf][].
+Samuel Coavoux & David Gerber (2016). "Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales". *Sociologie*, 7(2), p. 133--151. [url](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133). [pdf]().
 
 Samuel Coavoux (2015). "'Life itself'. L’engagement de Howard Phillips Lovecraft dans le journalisme amateur". *Contextes*, 15, doi: 10.4000/contextes.6031. [url (open access)](http://contextes.revues.org/6031).
 
