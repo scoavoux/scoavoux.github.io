@@ -87,6 +87,65 @@ Samuel Coavoux (2010). "La carrière des joueurs de *World of Warcraft*". in Syl
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2010_carriere_wow.pdf)
 
 <!--
+## Book reviews (selection)
+
+Samuel Coavoux (2017). "L'exposition blockbuster. Compte-rendu de Matti Bunzl, *In Search of a Lost Avant-garde*", *La vie des idées*,
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.laviedesidees.fr/L-exposition-blockbuster.html)
+
+Samuel Coavoux (2017). "Review of Wayne H. Brekhus, *Culture and Cognition*", *International Sociology*, 32(5), p. 632--634
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.sagepub.com/doi/full/10.1177/0268580917725276)
+
+Samuel Coavoux (2016). "Review of Sam Friedman, *Comedy and Distinction*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/19758)
+
+Samuel Coavoux (2015). "Compte-rendu de Paula Rabinowitz, *American Pulp. How Paperbacks Brought Modernism to Main Street*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/16808)
+
+Samuel Coavoux (2014). "Compte-rendu de Stephen Turner, *American Sociology. From Pre-Disciplinary to Post-Normal*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/13763)
+
+Samuel Coavoux (2013). "Compte-rendu de Muriel Darmon, *Classes préparatoires. La fabrique d'une jeunesse dominante*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/12566)
+
+Samuel Coavoux (2013). "Compte-rendu de Marcel Mauss, *Techniques, technologie et civilisation*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/10288)
+
+Samuel Coavoux (2013). "Review of Katherine W. Scheil, *She Hath Been Reading*", *International Sociology*, 28(5), p. 536--539
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://iss.sagepub.com/content/28/5/536.full)
+
+Samuel Coavoux (2012). "Compte-rendu de Sylvie Craipeau, *La société en jeu(x)*", *Réseaux*, 171, p. 230--232
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/revue-reseaux-2012-1-p-217.htm)
+
+Samuel Coavoux (2011). "Compte-rendu de Björn-Olav Dozo, *Mesures de l'écrivain*", *Contextes*,
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://contextes.revues.org/4895)
+
+Samuel Coavoux (2011). "Compte-rendu de Catherine Keller, Luc Massou & Pierre Morelli (eds.)", *Les non-usagers des TIC*, *Réseaux*, 167, p. 222--224
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=RES_167_0209)
+
+Samuel Coavoux (2011). "Compte-rendu de Laurence Corroy et Emilie Roche, *La presse en France depuis 1945*", *Réseaux*, 165, p. 258--261
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=RES_165_0249)
+
+Samuel Coavoux (2011). "Compte-rendu de Hélène Eck & Claire Blandin (eds.), *'La vie des femmes'. La presse féminine au XIX^e^ et XX^e^ siècles*", *Réseaux*, 165, p. 255-258
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=RES_165_0249)
+
+Samuel Coavoux (2010). "Compte-rendu de Laurent Tessier, *Le Vietnam, un cinéma de l'apocalypse*", *Réseaux*, 160-161, p. 323--325
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=RES_160_0319)
+
+Samuel Coavoux (2010). "Compte-rendu de Pierre Mœglin, *Les industries éducatives*", *Réseaux*, 164, p. 231--234
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=RES_164_0225)
+
+
+Samuel Coavoux (2009). "Compte-rendu de Louis Pinto, *La théorie souveraine. Les philosophes français et la sociologie au XX^e^ siècle*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/860)
+
+
+Samuel Coavoux (2008). "Compte-rendu de Howard Becker, *Comment parler de la société. Artistes, écrivains, chercheurs et représentations sociales*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/855)
+
+Samuel Coavoux (2008). "Compte-rendu de Ian Hacking, *Entre science et réalité. La construction sociale de quoi ?*", *Lectures*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/lectures/689)
+-->
+<!--
 # Books and edited
 
 
