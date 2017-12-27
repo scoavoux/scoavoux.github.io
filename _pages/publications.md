@@ -40,8 +40,26 @@ Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Jouer aux jeux vidé
 
 Samuel Coavoux (2012). "Compétence artistique, réception et démocratisation". *Marges*, 15, p. 69--80 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://marges.revues.org/355).
 
-Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comment trouver son chemin dans les jeux vidéo ?". *L’espace géographique*, 40(3), p. 245--262 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245)
+Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comment trouver son chemin dans les jeux vidéo ?". *L’espace géographique*, 40(3), p. 245--262
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/terminassian2011_espace_geo.pdf)
+
+## Edited books and journal issues
+
+Samuel Coavoux & Sébastien François (2013). "Social classes 2.0?", *Reset. Social science research on the Internet*, 1
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://reset.revues.org/90)
+
+Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des jeux vidéo*, Paris: Questions Théoriques
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.questions-theoriques.com/produit/16/9782917131275/Espaces%20et%20temps%20des%20jeux%20video)
+
+## Invited journal articles (non peer-reviewed)
+
+Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_famille_musee)
+
+Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/reset/127)
 
 ## Book chapters
 
