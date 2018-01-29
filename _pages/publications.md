@@ -67,7 +67,7 @@ Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Diffe
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
 
 Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lionel Jacquot & Jean-Marc Leveratto (eds.). *Relire Durkheim et Mauss. Émotions : religions, arts, politiques*. Nancy: Éditions Universitaires de Lorraine, p. 187--201
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/.pdf)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-01121670/document)
 
 Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Situating Play Cultures. A Survey of Videogame Players and Practices in France" in Dawn Stobbart & Monica Evans (eds.). *Engaging with Videogames: Play, Theory and Practice*. Oxford: Inter-Disciplinary Press, p. 37--51.
 
