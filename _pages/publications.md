@@ -17,6 +17,9 @@ author_profile: true
 
 ## Articles
 
+Samuel Coavoux (2018), "'On apprend à regarder la peinture'. Des textes de médiation didactiques au musée d’art", *Médiation et information*, 42--43, p. 119--131
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-01806102/document)
+
 Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). "What we know about games. A scientometric approach to *game studies* in the 2000s", *Games and Culture*, 12(6), p. 563--584
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://gac.sagepub.com/content/early/2016/11/17/1555412016676661.abstract)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_game_studies.pdf)
