@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a sociologist of culture. I specialize in the study of audiences with an emphasis on social inequalities and on reception. I currently work as a researcher at Orange Labs, at the SENSE lab (Sociology and Economics of Networks and Services). I graduated with a PhD from the École Normale Supérieure de Lyon and I have taught and/or done research at the University of Avignon, the École Normale Supérieure, and Paris-8 University.
+Je suis sociologue de la culture et du numérique. Mes recherches ont principalement porté sur la réception des biens culturels, c'est-à-dire la façon dont les individus les perçoivent et les utilisent. J'ai notamment travaillé sur les publics des musées et les joueurs de jeu vidéos, et je suis désormais engagé dans des recherches portant sur le public des vidéo en ligne de jeux vidéo et les consommateurs de musique en streaming. Je travaille également sur les professionnels de l'économie numérique.
+
+Je travaille actuellement en tant que chercheur à Orange Labs, au sein du laboratoire SENSE (Sociology and Economics of Networks and Services).
