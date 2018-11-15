@@ -17,6 +17,14 @@ author_profile: true
 
 ## Articles
 
+Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296?file=1)
+
++ Translated into english as Samuel Coavoux (2018), "The Limits of Competence. The Analogy Between Political Behaviour and Artistic Consumption and its Contribution to Studying Art Gallery Participation ", *Biens Symboliques/Symbolic Goods*, 3
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/298)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://revue.biens-symboliques.net/298?file=1)
+
 Samuel Coavoux (2018), "'On apprend à regarder la peinture'. Des textes de médiation didactiques au musée d’art", *Médiation et information*, 42--43, p. 119--131
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/Coavoux_2018_Expo_didactique_MEI.pdf)
 
@@ -47,7 +55,7 @@ Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comme
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/terminassian2011_espace_geo.pdf)
 
-## Edited books and journal issues
+## Direction d'ouvrages et de revues / Edited books and journal issues
 
 Samuel Coavoux & Sébastien François (2013). "Social classes 2.0?", *Reset. Social science research on the Internet*, 1
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://reset.revues.org/90)
@@ -55,7 +63,7 @@ Samuel Coavoux & Sébastien François (2013). "Social classes 2.0?", *Reset. Soc
 Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des jeux vidéo*, Paris: Questions Théoriques
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.questions-theoriques.com/produit/16/9782917131275/Espaces%20et%20temps%20des%20jeux%20video)
 
-## Invited journal articles (non peer-reviewed)
+## Autres articles / Invited journal articles (non peer-reviewed)
 
 Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
@@ -64,7 +72,7 @@ Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle",
 Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/reset/127)
 
-## Book chapters
+## Chapitres / Book chapters
 
 Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
