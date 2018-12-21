@@ -65,6 +65,9 @@ Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des 
 
 ## Autres articles / Invited journal articles (non peer-reviewed)
 
+Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm)
+
 Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_famille_musee)
