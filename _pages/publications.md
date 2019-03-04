@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
-
+<!--A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
+-->
 ## Articles
 
 Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3

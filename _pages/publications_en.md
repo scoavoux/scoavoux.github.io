@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page lists my publications in English. A list of all my publications can be found [here]({{base_path}}/publications.html).
+This page is limited to publications in English. A list of all my papers can be found [here]({{base_path}}/publications.html).
 
 ## Articles
 
