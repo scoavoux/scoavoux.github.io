@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
+
 ## Articles
 
 Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3
@@ -68,6 +70,7 @@ Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des 
 Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm)
 
+
 Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_famille_musee)
@@ -76,6 +79,9 @@ Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/reset/127)
 
 ## Chapitres / Book chapters
+
+Samuel Coavoux (2019). "Les jeux vidéo chez les adolescents. Une approche quantitative" in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02021618/document)
 
 Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
