@@ -17,6 +17,12 @@ author_profile: true
 
 ## Articles
 
+Samuel Coavoux, "Planifier et sélectionner. Rapports au temps des visiteurs de musées et légitimité culturelle", *Actes de la recherche en sciences sociales*, 213, p. 31--47
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-1-page-31.htm)
+
+Jean-Samuel Beuscart, Samuel Coavoux & Sisley Mailard, "Les algorithmes de recommandation musicale et l'autonomie de l'auditeur. Analyse des écoutes d'un panel d'utilisateurs de streaming", *Réseaux*, 213, p. 17--47
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-reseaux-2019-1-page-17.htm)
+
 Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296?file=1)
@@ -77,7 +83,10 @@ Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
 
 ## Chapitres / Book chapters
 
-Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
+Samuel Coavoux, "Les jeux vidéo chez les adolescents. Une approche quantitative" in Vincent Berry & Leticia Andlauer (eds.), *Jeux vidéo et adolescence*. Québec: Presses Universitaires de Laval, p. 15--30
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02021618/document)
+
+Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bern: Peter Lang, p. 165--180
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
 
 Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lionel Jacquot & Jean-Marc Leveratto (eds.). *Relire Durkheim et Mauss. Émotions : religions, arts, politiques*. Nancy: Éditions Universitaires de Lorraine, p. 187--201
