@@ -73,6 +73,10 @@ Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des 
 
 ## Autres articles / Invited journal articles (non peer-reviewed)
 
+Samuel Coavoux (2019). "La différenciation genrée des pratiques des jeux vidéo", *Enjeux numériques*, 6, p. 35-38
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/en-2019-06/2019-06-7.pdf)
+
 Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm)
 
