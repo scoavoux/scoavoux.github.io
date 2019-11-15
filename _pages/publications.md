@@ -83,7 +83,6 @@ Samuel Coavoux (2019). "La différenciation genrée des pratiques des jeux vidé
 
 + Translated into english as Samuel Coavoux (2019), "Gendered differences in video-gaming", *Enjeux numériques / Digital Issues*, 6
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07AN)
->>>>>>> 15d6b0279e9ad35c94eddc1cdae8a09cc4f76b15
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/DG/2019/DG-2019-06/EnjNum19b_7Coavoux.pdf)
 
 Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
