@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Cours"
+    url: /cours/
+
+  - title: "CV"
+    url: "https://scoa.portknox.net/s/xC4Nii2GNb6gHmc"
+
   # - title: "Talks"
   #   url: /talks/
   #

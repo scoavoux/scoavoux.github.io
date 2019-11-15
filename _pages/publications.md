@@ -54,7 +54,8 @@ Samuel Coavoux (2015). "De la mesure du temps à l’analyse des séquences d’
 Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Jouer aux jeux vidéo en France. Géographie sociale d’une pratique culturelle". *L’espace géographique*, 43(4), p. 308--332 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_434_0308)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo.pdf)
 
-+ translated into english as Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Playing videogames in France. Social geography of a cultural practice". *L’espace géographique*, 43(4) [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article-E_EG_434_0308--playing-video-games-in-france-social.htm)
++ translated into english as Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Playing videogames in France. Social geography of a cultural practice". *L’espace géographique*, 43(4) 
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article-E_EG_434_0308--playing-video-games-in-france-social.htm)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo_en.pdf)
 
 Samuel Coavoux (2012). "Compétence artistique, réception et démocratisation". *Marges*, 15, p. 69--80 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://marges.revues.org/355).
@@ -73,9 +74,19 @@ Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des 
 
 ## Autres articles / Invited journal articles (non peer-reviewed)
 
+Samuel Coavoux (2019). "Les jeux vidéo. Sociologie d'un loisir de masse", *La vie des idées*
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://laviedesidees.fr/Les-jeux-video-sociologie-d-un-loisir-de-masse.html)
+
+Samuel Coavoux (2019). "La différenciation genrée des pratiques des jeux vidéo", *Enjeux numériques*, 6, p. 35-38
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/en-2019-06/2019-06-7.pdf)
+
++ translated into english as Samuel Coavoux (2019) "Gendered differences in video gaming", *Digital issues*, 6
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/DG/2019/DG-2019-06/EnjNum19b_7Coavoux.pdf)
+
 Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm)
-
 
 Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
@@ -88,6 +99,8 @@ Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
 
 Samuel Coavoux (2019). "Les jeux vidéo chez les adolescents. Une approche quantitative" in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02021618/document)
+
+Berry, Vincent, Manuel Boutet, Samuel Coavoux & Hovig Ter Minassian (2018), "'On fait un sloubi, pour rigoler'. Les jeux du Moyen-Âge revisités" in Florian Besson & Justine Breton (eds.). *Kaamelott. Un livre d'histoire*, Paris, Vendémiaire, p. 253-266
 
 Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
 >>>>>>> e306620f0539410b73dc3c7b56172b8fd50c5927

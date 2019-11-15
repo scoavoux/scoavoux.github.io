@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Je suis sociologue de la culture et du numérique. Mes recherches ont principalement porté sur la réception des biens culturels, c'est-à-dire la façon dont les individus les perçoivent et les utilisent. J'ai notamment travaillé sur les publics des musées et les joueurs de jeu vidéos, et je suis désormais engagé dans des recherches portant sur le public des vidéo en ligne de jeux vidéo et les consommateurs de musique en streaming. Je travaille également sur les professionnels de l'économie numérique.
+Je suis sociologue, chercheur au département de sciences sociales (SENSE) d'Orange Labs.
 
-Je travaille actuellement en tant que chercheur à Orange Labs, au sein du laboratoire SENSE (Sociology and Economics of Networks and Services).
+Mes recherches portent principalement sur la réception des biens culturels, c'est-à-dire la façon dont les individus les perçoivent et les utilisent ; et plus généralement sur les industries culturelles et les technologies numériques.
+
+<!--**La réception des biens culturels**. [Ma thèse](http://theses.fr/2016LYSEN009), soutenue en 2006, portait sur les visiteurs de musées d'art, à partir de l'étude de cas de la réception d'un tableau de Nicolas Poussin.
+
+**La culture numérique**. 
+
++ Producteurs et publics des vidéos de jeux vidéo en ligne (avec Noémie Roques).
++ 
+
+**Les professionnels de l'économie numérique**.
+
++ 
++ -->
