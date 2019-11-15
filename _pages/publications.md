@@ -81,8 +81,9 @@ Samuel Coavoux (2019). "La différenciation genrée des pratiques des jeux vidé
 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/en-2019-06/2019-06-7.pdf)
 
-+ translated into english as Samuel Coavoux (2019) "Gendered differences in video gaming", *Digital issues*, 6
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
++ Translated into english as Samuel Coavoux (2019), "Gendered differences in video-gaming", *Enjeux numériques / Digital Issues*, 6
+[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07AN)
+>>>>>>> 15d6b0279e9ad35c94eddc1cdae8a09cc4f76b15
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/DG/2019/DG-2019-06/EnjNum19b_7Coavoux.pdf)
 
 Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
@@ -103,7 +104,6 @@ Samuel Coavoux (2019). "Les jeux vidéo chez les adolescents. Une approche quant
 Berry, Vincent, Manuel Boutet, Samuel Coavoux & Hovig Ter Minassian (2018), "'On fait un sloubi, pour rigoler'. Les jeux du Moyen-Âge revisités" in Florian Besson & Justine Breton (eds.). *Kaamelott. Un livre d'histoire*, Paris, Vendémiaire, p. 253-266
 
 Samuel Coavoux, Manuel Boutet & Vincent Berry (2014). "Playing Styles. The Differentiation of Practices in Online Video Games" in Michael Grenfell & Frédéric Lebaron (eds.). *Bourdieu and Data Analysis. Methodological Principles and Practice*. Bernn: Peter Lang, p. 165--180
->>>>>>> e306620f0539410b73dc3c7b56172b8fd50c5927
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2014_PlayingStyles.pdf)
 
 Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lionel Jacquot & Jean-Marc Leveratto (eds.). *Relire Durkheim et Mauss. Émotions : religions, arts, politiques*. Nancy: Éditions Universitaires de Lorraine, p. 187--201
