@@ -97,6 +97,9 @@ Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
 
 ## Chapitres / Book chapters
 
+Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), "Quand les sociologues entrent au musée", préface à Jean-Claude Passeron et Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf)
+
 Samuel Coavoux (2019). "Les jeux vidéo chez les adolescents. Une approche quantitative" in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02021618/document)
 
@@ -111,6 +114,7 @@ Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lion
 Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Situating Play Cultures. A Survey of Videogame Players and Practices in France" in Dawn Stobbart & Monica Evans (eds.). *Engaging with Videogames: Play, Theory and Practice*. Oxford: Inter-Disciplinary Press, p. 37--51.
 
 Samuel Coavoux (2011). "Comment un monde social se construit. L'autonomisation de l'espace du jeu en ligne" in Charles Perraton, Magda Fusaro & Maude Bonenfant (eds.). *Socialisation et communication dans les jeux vidéo*. Montréal: Presses Universitaires de Montréal, p. 105--121
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://books.openedition.org/pum/9013)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2011_autonomie_wow.pdf)
 
 Samuel Coavoux (2011). "Ruptures biographiques et écriture du fantastique dans *L’affaire Charles Dexter Ward* de Howard Phillips Lovecraft". in Bernard Lahire (ed.). *Ce qu’ils vivent, ce qu’ils écrivent*. Paris: Éditions des archives contemporaines, p. 369--398
