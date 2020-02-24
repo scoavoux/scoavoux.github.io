@@ -19,6 +19,9 @@ author_profile: true
 -->
 ## Articles
 
+Samuel Coavoux & Frédérique Giraud (2020), "La forme scolaire déniée des médiations muséales. Enquête sur l’accompagnement des publics", *Cahiers de recherche sur l'éducation et les savoirs*, HS n° 7, p. 133--157
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://journals.openedition.org/cres/4427)
+
 Samuel Coavoux (2019), "Planifier et sélectionner. Rapports au temps des visiteurs de musées et légitimité culturelle", *Actes de la recherche en sciences sociales*, 213, p. 31--47
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-1-page-31.htm)
 
