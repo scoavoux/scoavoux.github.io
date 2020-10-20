@@ -24,9 +24,13 @@ Samuel Coavoux & Frédérique Giraud (2020), "La forme scolaire déniée des mé
 
 Samuel Coavoux (2019), "Planifier et sélectionner. Rapports au temps des visiteurs de musées et légitimité culturelle", *Actes de la recherche en sciences sociales*, 213, p. 31--47
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-1-page-31.htm)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02119400/document)
 
-Jean-Samuel Beuscart, Samuel Coavoux & Sisley Mailard (2019), "Les algorithmes de recommandation musicale et l'autonomie de l'auditeur. Analyse des écoutes d'un panel d'utilisateurs de streaming", *Réseaux*, 213, p. 17--47
+Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), "Les algorithmes de recommandation musicale et l'autonomie de l'auditeur. Analyse des écoutes d'un panel d'utilisateurs de streaming", *Réseaux*, 213, p. 17--47
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-reseaux-2019-1-page-17.htm)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-01639788v2/document)
++ Translated into english as Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), "Music recommendation algorithms and listener autonomy. The listening patterns of a panel of music streaming users", *Réseaux*, 213, p. 17--47
+[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article.php?ID_ARTICLE=E_RES_213_0017)
 
 Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3
 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296)
