@@ -19,96 +19,84 @@ author_profile: true
 -->
 ## Articles
 
-Samuel Coavoux & Frédérique Giraud (2020), "La forme scolaire déniée des médiations muséales. Enquête sur l’accompagnement des publics", *Cahiers de recherche sur l'éducation et les savoirs*, HS n° 7, p. 133--157
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://journals.openedition.org/cres/4427)
+Vincent Berry & Samuel Coavoux (2021), ["Qui veut jouer au Monopoly ? Cultures et pratiques du jeu de société en France"](https://journals.openedition.org/sdj/2819), *Sciences du jeu*, 14.
 
-Samuel Coavoux (2019), "Planifier et sélectionner. Rapports au temps des visiteurs de musées et légitimité culturelle", *Actes de la recherche en sciences sociales*, 213, p. 31--47
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-1-page-31.htm)
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02119400/document)
+Samuel Coavoux & Noémie Roques (2020), ["Une profession de l'authenticité. Le régime de proximité des intermédiaires du jeu vidéo sur Twitch et YouTube"](https://www.cairn.info/revue-reseaux-2020-6-page-169.htm), *Réseaux*, 224, p. 169--196.
 
-Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), "Les algorithmes de recommandation musicale et l'autonomie de l'auditeur. Analyse des écoutes d'un panel d'utilisateurs de streaming", *Réseaux*, 213, p. 17--47
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-reseaux-2019-1-page-17.htm)
+Samuel Coavoux & Frédérique Giraud (2020), ["La forme scolaire déniée des médiations muséales. Enquête sur l’accompagnement des publics"](https://journals.openedition.org/cres/4427), *Cahiers de recherche sur l'éducation et les savoirs*, HS n° 7, p. 133--157.
+
+Samuel Coavoux (2019), ["Planifier et sélectionner. Rapports au temps des visiteurs de musées et légitimité culturelle"](https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-1-page-31.htm), *Actes de la recherche en sciences sociales*, 213, p. 31--47
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02119400/document).
+
+Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), ["Les algorithmes de recommandation musicale et l'autonomie de l'auditeur. Analyse des écoutes d'un panel d'utilisateurs de streaming"](https://www.cairn.info/revue-reseaux-2019-1-page-17.htm), *Réseaux*, 213, p. 17--47
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-01639788v2/document)
-+ Translated into english as Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), "Music recommendation algorithms and listener autonomy. The listening patterns of a panel of music streaming users", *Réseaux*, 213, p. 17--47
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article.php?ID_ARTICLE=E_RES_213_0017)
++ Translated into english as Jean-Samuel Beuscart, Samuel Coavoux & Sisley Maillard (2019), ["Music recommendation algorithms and listener autonomy. The listening patterns of a panel of music streaming users"](https://www.cairn-int.info/article.php?ID_ARTICLE=E_RES_213_0017), *Réseaux*, 213, p. 17--47.
 
-Samuel Coavoux (2018), "Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées", *Biens Symboliques/Symbolic Goods*, 3
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296)
+Samuel Coavoux (2018), ["Les frontières de la compétence. Les apports de l’analogie entre comportements politiques et consommations artistiques à l’étude des publics des musées"](https://revue.biens-symboliques.net/296), *Biens Symboliques/Symbolic Goods*, 3
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://revue.biens-symboliques.net/296?file=1)
 
-+ Translated into english as Samuel Coavoux (2018), "The Limits of Competence. The Analogy Between Political Behaviour and Artistic Consumption and its Contribution to Studying Art Gallery Participation ", *Biens Symboliques/Symbolic Goods*, 3
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://revue.biens-symboliques.net/298)
++ Translated into english as Samuel Coavoux (2018), ["The Limits of Competence. The Analogy Between Political Behaviour and Artistic Consumption and its Contribution to Studying Art Gallery Participation"](https://revue.biens-symboliques.net/298), *Biens Symboliques/Symbolic Goods*, 3
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://revue.biens-symboliques.net/298?file=1)
 
 Samuel Coavoux (2018), "'On apprend à regarder la peinture'. Des textes de médiation didactiques au musée d’art", *Médiation et information*, 42--43, p. 119--131
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/Coavoux_2018_Expo_didactique_MEI.pdf)
 
-Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). "What we know about games. A scientometric approach to *game studies* in the 2000s", *Games and Culture*, 12(6), p. 563--584
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://gac.sagepub.com/content/early/2016/11/17/1555412016676661.abstract)
+Samuel Coavoux, Manuel Boutet & Vinciane Zabban (2017). ["What we know about games. A scientometric approach to *game studies* in the 2000s"](http://gac.sagepub.com/content/early/2016/11/17/1555412016676661.abstract), *Games and Culture*, 12(6), p. 563--584
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_game_studies.pdf)
 
-Samuel Coavoux (2016). "Reconnaître un chef d’œuvre. L’influence du statut d’une œuvre dans l’allocation de l’attention des visiteurs au musée d’art". *Regards sociologiques*, 48, p. 23--36
+Samuel Coavoux (2016). ["Reconnaître un chef d’œuvre. L’influence du statut d’une œuvre dans l’allocation de l’attention des visiteurs au musée d’art"](http://www.regards-sociologiques.fr/n49-2016-2). *Regards sociologiques*, 48, p. 23--36
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_statut.pdf)
 
-Samuel Coavoux & David Gerber (2016). "Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales". *Sociologie*, 7(2), p. 133--151 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133)
+Samuel Coavoux & David Gerber (2016). ["Les pratiques ludiques des adultes entre affinités électives et sociabilités familiales"](http://www.cairn.info/resume.php?ID_ARTICLE=SOCIO_072_0133). *Sociologie*, 7(2), p. 133--151
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2016_famille_jeu.pdf)
 
-Samuel Coavoux (2015). "'Life itself'. L’engagement de Howard Phillips Lovecraft dans le journalisme amateur". *Contextes*, 15 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://contextes.revues.org/6031).
+Samuel Coavoux (2015). ["'Life itself'. L’engagement de Howard Phillips Lovecraft dans le journalisme amateur"](http://contextes.revues.org/6031). *Contextes*, 15.
 
-Samuel Coavoux (2015). "De la mesure du temps à l’analyse des séquences d’action. Dynamique de l’attention dans les études du public des musées". *Nouvelles perspectives en sciences sociales*, 10(2), p. 237--271 [<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.erudit.org/revue/npss/2015/v10/n2/1030269ar.html)
+Samuel Coavoux (2015). ["De la mesure du temps à l’analyse des séquences d’action. Dynamique de l’attention dans les études du public des musées"](https://www.erudit.org/revue/npss/2015/v10/n2/1030269ar.html). *Nouvelles perspectives en sciences sociales*, 10(2), p. 237--271
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_visitor_studies.pdf)
 
-Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Jouer aux jeux vidéo en France. Géographie sociale d’une pratique culturelle". *L’espace géographique*, 43(4), p. 308--332 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_434_0308)
+Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). ["Jouer aux jeux vidéo en France. Géographie sociale d’une pratique culturelle"](http://www.cairn.info/resume.php?ID_ARTICLE=EG_434_0308). *L’espace géographique*, 43(4), p. 308--332
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo.pdf)
 
-+ translated into english as Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Playing videogames in France. Social geography of a cultural practice". *L’espace géographique*, 43(4) 
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn-int.info/article-E_EG_434_0308--playing-video-games-in-france-social.htm)
++ translated into english as Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). ["Playing videogames in France. Social geography of a cultural practice"](https://www.cairn-int.info/article-E_EG_434_0308--playing-video-games-in-france-social.htm). *L’espace géographique*, 43(4) 
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/rufat2014_espace_geo_en.pdf)
 
-Samuel Coavoux (2012). "Compétence artistique, réception et démocratisation". *Marges*, 15, p. 69--80 [<i class="fa fa-external-link" aria-hidden="true"></i>](http://marges.revues.org/355).
+Samuel Coavoux (2012). ["Compétence artistique, réception et démocratisation"](http://marges.revues.org/355). *Marges*, 15, p. 69--80.
 
-Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). "Comment trouver son chemin dans les jeux vidéo ?". *L’espace géographique*, 40(3), p. 245--262
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245)
+Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux & Vincent Berry (2011). ["Comment trouver son chemin dans les jeux vidéo ?"](http://www.cairn.info/resume.php?ID_ARTICLE=EG_403_0245). *L’espace géographique*, 40(3), p. 245--262
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/terminassian2011_espace_geo.pdf)
 
 ## Direction d'ouvrages et de revues / Edited books and journal issues
 
-Samuel Coavoux & Sébastien François (2013). "Social classes 2.0?", *Reset. Social science research on the Internet*, 1
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://reset.revues.org/90)
+Vincent Berry & Samuel Coavoux (2021). [Le jeu de société : Pratiques, produits et industries](https://journals.openedition.org/sdj/2784), *Sciences du jeu*, 14.
 
-Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). *Espace et temps des jeux vidéo*, Paris: Questions Théoriques
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.questions-theoriques.com/produit/16/9782917131275/Espaces%20et%20temps%20des%20jeux%20video)
+Samuel Coavoux & Sébastien François (2013). ["Social classes 2.0?"](http://reset.revues.org/90), *Reset. Social science research on the Internet*, 1.
+
+Hovig Ter Minassian, Samuel Rufat & Samuel Coavoux (2012). [*Espace et temps des jeux vidéo*](http://www.questions-theoriques.com/produit/16/9782917131275/Espaces%20et%20temps%20des%20jeux%20video), Paris: Questions Théoriques.
 
 ## Autres articles / Invited journal articles (non peer-reviewed)
 
-Samuel Coavoux (2019). "Les jeux vidéo. Sociologie d'un loisir de masse", *La vie des idées*
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://laviedesidees.fr/Les-jeux-video-sociologie-d-un-loisir-de-masse.html)
+Samuel Coavoux (2019). ["Les jeux vidéo. Sociologie d'un loisir de masse"](https://laviedesidees.fr/Les-jeux-video-sociologie-d-un-loisir-de-masse.html), *La vie des idées*
 
-Samuel Coavoux (2019). "La différenciation genrée des pratiques des jeux vidéo", *Enjeux numériques*, 6, p. 35-38
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR)
+
+Samuel Coavoux (2019). ["La différenciation genrée des pratiques des jeux vidéo"](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07FR), *Enjeux numériques*, 6, p. 35-38
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/en-2019-06/2019-06-7.pdf)
 
-+ Translated into english as Samuel Coavoux (2019), "Gendered differences in video-gaming", *Enjeux numériques / Digital Issues*, 6
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07AN)
++ Translated into english as Samuel Coavoux (2019), ["Gendered differences in video-gaming"](http://www.annales.org/enjeux-numeriques/2019/resumes/juin/07-en-resum-FR-AN-juin-2019.html#07AN), *Enjeux numériques / Digital Issues*, 6
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.annales.org/enjeux-numeriques/DG/2019/DG-2019-06/EnjNum19b_7Coavoux.pdf)
 
-Samuel Coavoux (2018). "Ce que les techniques numériques font aux loisirs", *Idées économiques et sociales*, 194, p. 34-40
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm)
+Samuel Coavoux (2018). ["Ce que les techniques numériques font aux loisirs"](https://www.cairn.info/revue-idees-economiques-et-sociales-2018-4-page-34.htm), *Idées économiques et sociales*, 194, p. 34-40
 
-Samuel Coavoux (2015). "Familles au musée. L'inégale transmission culturelle", *Informations sociales*, 189, p. 10--17
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm)
+Samuel Coavoux (2015). ["Familles au musée. L'inégale transmission culturelle"](https://www.cairn.info/revue-informations-sociales-2015-4-page-8.htm), *Informations sociales*, 189, p. 10--17
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2015_famille_musee)
 
-Samuel Coavoux (2013). "Introduction. Des classes sociales 2.0 ?", *Reset*, 1
-[<i class="fa fa-external-link" aria-hidden="true"></i>](http://journals.openedition.org/reset/127)
+Samuel Coavoux (2013). ["Introduction. Des classes sociales 2.0 ?"](http://journals.openedition.org/reset/127), *Reset*, 1.
 
 ## Chapitres / Book chapters
 
-Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), "Quand les sociologues entrent au musée", préface à Jean-Claude Passeron et Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf)
+Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), ["Quand les sociologues entrent au musée"](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf), préface à Jean-Claude Passeron et Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38.
 
-Samuel Coavoux (2019). "Les jeux vidéo chez les adolescents. Une approche quantitative" in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://halshs.archives-ouvertes.fr/halshs-02021618/document)
+Samuel Coavoux (2019). ["Les jeux vidéo chez les adolescents. Une approche quantitative"](https://halshs.archives-ouvertes.fr/halshs-02021618/document) in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30.
 
 Berry, Vincent, Manuel Boutet, Samuel Coavoux & Hovig Ter Minassian (2018), "'On fait un sloubi, pour rigoler'. Les jeux du Moyen-Âge revisités" in Florian Besson & Justine Breton (eds.). *Kaamelott. Un livre d'histoire*, Paris, Vendémiaire, p. 253-266
 
@@ -120,8 +108,7 @@ Samuel Coavoux (2014). "L’engagement corporel des visiteurs de musée" in Lion
 
 Samuel Rufat, Hovig Ter Minassian & Samuel Coavoux (2014). "Situating Play Cultures. A Survey of Videogame Players and Practices in France" in Dawn Stobbart & Monica Evans (eds.). *Engaging with Videogames: Play, Theory and Practice*. Oxford: Inter-Disciplinary Press, p. 37--51.
 
-Samuel Coavoux (2011). "Comment un monde social se construit. L'autonomisation de l'espace du jeu en ligne" in Charles Perraton, Magda Fusaro & Maude Bonenfant (eds.). *Socialisation et communication dans les jeux vidéo*. Montréal: Presses Universitaires de Montréal, p. 105--121
-[<i class="fa fa-external-link" aria-hidden="true"></i>](https://books.openedition.org/pum/9013)
+Samuel Coavoux (2011). ["Comment un monde social se construit. L'autonomisation de l'espace du jeu en ligne"](https://books.openedition.org/pum/9013) in Charles Perraton, Magda Fusaro & Maude Bonenfant (eds.). *Socialisation et communication dans les jeux vidéo*. Montréal: Presses Universitaires de Montréal, p. 105--121
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2011_autonomie_wow.pdf)
 
 Samuel Coavoux (2011). "Ruptures biographiques et écriture du fantastique dans *L’affaire Charles Dexter Ward* de Howard Phillips Lovecraft". in Bernard Lahire (ed.). *Ce qu’ils vivent, ce qu’ils écrivent*. Paris: Éditions des archives contemporaines, p. 369--398
