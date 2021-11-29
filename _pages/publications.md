@@ -17,7 +17,16 @@ author_profile: true
 
 <!--A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
 -->
+
+## Livres / Books
+
+Florence Eloy (dir.), Stéphane Bonnéry, Samuel Coavoux, Rémi Deslyper, Frédérique Giraud, Tomas Legon, Muriel Mille et Véronique Soulé (2022), [*Comment la culture vient aux enfants. Repenser les médiations*](https://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100681300), Paris, Presses de Sciences Po, Ministère de la Culture.
+
+Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon de Carvajal, David Gerber, Samuel Rufat, Mathieu Triclot et Vinciane Zabban (2021), [*La fin du game ? Les jeux vidéo au quotidien*](https://pufr-editions.fr/produit/la-fin-du-game/), Tours, Presses Universitaires François Rabelais.
+
 ## Articles
+
+Olivier Alexandre & Samuel Coavoux (2021), ["Les influenceurs de la Silicon Valley. Entreprendre, promouvoir et guider la révolution numérique"](https://www-cairn-info.acces.bibliotheque-diderot.fr/revue-sociologie-2021-2-page-111.htm), *Sociologie*, 12 (2), p. 111--128.
 
 Vincent Berry & Samuel Coavoux (2021), ["Qui veut jouer au Monopoly ? Cultures et pratiques du jeu de société en France"](https://journals.openedition.org/sdj/2819), *Sciences du jeu*, 14.
 
@@ -93,6 +102,8 @@ Samuel Coavoux (2015). ["Familles au musée. L'inégale transmission culturelle"
 Samuel Coavoux (2013). ["Introduction. Des classes sociales 2.0 ?"](http://journals.openedition.org/reset/127), *Reset*, 1.
 
 ## Chapitres / Book chapters
+
+Vincent Berry, Samuel Coavoux & Hovig Ter Minassian (2021), ["Les Français et les jeux. Un état des lieux"](), in Emmanuelle Duwez & Pierre Mercklé (dirs.), *Un panel français. L'Étude longitudinale par internet pour les sciences sociales*, Paris: INED Éditions.
 
 Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), ["Quand les sociologues entrent au musée"](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf), préface à Jean-Claude Passeron et Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38.
 
