@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Cours"
-    url: /cours/
+#  - title: "Classes"
+#    url: /cours/
 
-  - title: "CV"
-    url: "https://scoa.portknox.net/s/xC4Nii2GNb6gHmc"
+  - title: "Full CV (fr)"
+    url: "https://e.pcloud.link/publink/show?code=XZX6fBZngFNtSO3UU05BjjmJ5xOIkSiHxSk"
 
   # - title: "Talks"
   #   url: /talks/
