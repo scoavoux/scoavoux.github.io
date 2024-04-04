@@ -26,11 +26,9 @@ Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon 
 
 ## Articles
 
-Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2023). ["How online ad-
-vertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*.
+Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2023). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*.
 
-Jean-Samuel Beuscart, Samuel Coavoux & Jean-Baptiste Garrocq (2023). ["Listening to music videos on
-YouTube. Digital consumption practices and the environmental impact of streaming"](https://journals.sagepub.com/doi/full/10.1177/14695405221133266). *Journal of Consumer Culture*, 23(3).
+Jean-Samuel Beuscart, Samuel Coavoux & Jean-Baptiste Garrocq (2023). ["Listening to music videos onYouTube. Digital consumption practices and the environmental impact of streaming"](https://journals.sagepub.com/doi/full/10.1177/14695405221133266). *Journal of Consumer Culture*, 23(3), 654-671.
 
 Olivier Alexandre & Samuel Coavoux (2021), ["Les influenceurs de la Silicon Valley. Entreprendre, promouvoir et guider la révolution numérique"](https://www-cairn-info.acces.bibliotheque-diderot.fr/revue-sociologie-2021-2-page-111.htm), *Sociologie*, 12 (2), p. 111--128.
 
