@@ -18,11 +18,17 @@ author_profile: true
 <!--A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
 -->
 
+## Working Papers
+
+Samuel Coavoux & Abel Aussant, ["The Netflix omnivore. The effect of streaming platforms on cultural diversity and inequalities"](https://osf.io/preprints/socarxiv/dycwz).
+
+Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg, ["Machine bias. How do Generative Language Models Answer Opinion Polls?"][https://osf.io/preprints/socarxiv/r2pnb].
+
 ## Livres / Books
 
-Florence Eloy (dir.), Stéphane Bonnéry, Samuel Coavoux, Rémi Deslyper, Frédérique Giraud, Tomas Legon, Muriel Mille et Véronique Soulé (2022), [*Comment la culture vient aux enfants. Repenser les médiations*](https://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100681300), Paris, Presses de Sciences Po, Ministère de la Culture.
+Florence Eloy (dir.), Stéphane Bonnéry, Samuel Coavoux, Rémi Deslyper, Frédérique Giraud, Tomas Legon, Muriel Mille & Véronique Soulé (2022), [*Comment la culture vient aux enfants. Repenser les médiations*](https://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100681300), Paris, Presses de Sciences Po, Ministère de la Culture.
 
-Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon de Carvajal, David Gerber, Samuel Rufat, Mathieu Triclot et Vinciane Zabban (2021), [*La fin du game ? Les jeux vidéo au quotidien*](https://pufr-editions.fr/produit/la-fin-du-game/), Tours, Presses Universitaires François Rabelais.
+Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon de Carvajal, David Gerber, Samuel Rufat, Mathieu Triclot & Vinciane Zabban (2021), [*La fin du game ? Les jeux vidéo au quotidien*](https://pufr-editions.fr/produit/la-fin-du-game/), Tours, Presses Universitaires François Rabelais.
 
 ## Articles
 
@@ -109,7 +115,7 @@ Samuel Coavoux (2013). ["Introduction. Des classes sociales 2.0 ?"](http://journ
 
 Vincent Berry, Samuel Coavoux & Hovig Ter Minassian (2021), ["Les Français et les jeux. Un état des lieux"](), in Emmanuelle Duwez & Pierre Mercklé (dirs.), *Un panel français. L'Étude longitudinale par internet pour les sciences sociales*, Paris: INED Éditions.
 
-Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), ["Quand les sociologues entrent au musée"](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf), préface à Jean-Claude Passeron et Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38.
+Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), ["Quand les sociologues entrent au musée"](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf), préface à Jean-Claude Passeron & Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38.
 
 Samuel Coavoux (2019). ["Les jeux vidéo chez les adolescents. Une approche quantitative"](https://halshs.archives-ouvertes.fr/halshs-02021618/document) in Vincent Berry & Leticia Andlauer, *Jeux vidéo et adolescence*, Quebec: Presses Universitaires de Laval, p. 15-30.
 
@@ -135,7 +141,7 @@ Samuel Coavoux (2011). "L’espace social des pratiques de *World of Warcraft*".
 Samuel Coavoux (2010). "The Quantitative / Qualitative Antinomy in Virtual World Studies". in J. Talmadge Wright, David G. Embrick & Andras Lukacs (eds.). *Utopic Dreams and Apocalyptic Fantasies : Critical Approaches to Researching Video Game Play*. New York: Lexington Press, p. 223--244
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2010_quanti_quali.pdf)
 
-Samuel Coavoux (2010). "La carrière des joueurs de *World of Warcraft*". in Sylvie Craipeau, Sébastien Genvo et Brigitte Simonnot (eds.). *Les jeux vidéo au croisement du social, de l’art et de la culture*. Nancy: Presses Universitaires de Nancy, p. 43--58
+Samuel Coavoux (2010). "La carrière des joueurs de *World of Warcraft*". in Sylvie Craipeau, Sébastien Genvo & Brigitte Simonnot (eds.). *Les jeux vidéo au croisement du social, de l’art et de la culture*. Nancy: Presses Universitaires de Nancy, p. 43--58
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{base_path}}/files/coavoux2010_carriere_wow.pdf)
 
 <!--
