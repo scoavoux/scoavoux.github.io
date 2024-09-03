@@ -22,7 +22,7 @@ author_profile: true
 
 Samuel Coavoux & Abel Aussant, ["The Netflix omnivore. The effect of streaming platforms on cultural diversity and inequalities"](https://osf.io/preprints/socarxiv/dycwz).
 
-Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg, ["Machine bias. How do Generative Language Models Answer Opinion Polls?"][https://osf.io/preprints/socarxiv/r2pnb].
+Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg, ["Machine bias. How do Generative Language Models Answer Opinion Polls?"](https://osf.io/preprints/socarxiv/r2pnb).
 
 ## Livres / Books
 
