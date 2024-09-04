@@ -15,7 +15,7 @@ I work on cultural consumption, cultural inequalities, and digital culture, usin
 My main current research project is [Records](https://records.huma-num.fr/), a collective endeavour with music streaming platform Deezer to look at digital music consumption using log data, surveys and interviews. In the project, I use detailed consumption data to take a new look at cultural inequalities; I also study the uses of recommendation algorithms and the way users come to adopt new music.
 
 
-**Main recent publications ([link to full list]({{base_path}}/publications])):**
+**Main recent publications ([link to full list]({{base_path}}/publications)):**
 
 Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2023). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*.
 
