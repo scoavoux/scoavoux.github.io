@@ -17,7 +17,7 @@ My main current research project is [Records](https://records.huma-num.fr/), a c
 
 **Main recent publications ([link to full list]({{base_path}}/publications)):**
 
-Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2023). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*.
+Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2024). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*, 26(10), 6098-6119.
 
 Jean-Samuel Beuscart, Samuel Coavoux & Jean-Baptiste Garrocq (2023). ["Listening to music videos onYouTube. Digital consumption practices and the environmental impact of streaming"](https://journals.sagepub.com/doi/full/10.1177/14695405221133266). *Journal of Consumer Culture*, 23(3), 654-671.
 
