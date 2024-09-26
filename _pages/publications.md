@@ -113,7 +113,9 @@ Samuel Coavoux (2013). ["Introduction. Des classes sociales 2.0 ?"](http://journ
 
 ## Chapitres / Book chapters
 
-Vincent Berry, Samuel Coavoux & Hovig Ter Minassian (2021), ["Les Français et les jeux. Un état des lieux"](), in Emmanuelle Duwez & Pierre Mercklé (dirs.), *Un panel français. L'Étude longitudinale par internet pour les sciences sociales*, Paris: INED Éditions.
+Jean-Samuel Beuscart & Samuel Coavoux (2022), ["Paranoid android. Algorithmes de recommandation et autonomie des auditeurs"](https://cnmlab.fr/recueil/horizon-la-musique-en-2030/chapitre/10/) in *La musique en mouvements. Horizon 2030*, Paris: CNMLab.
+
+Vincent Berry, Samuel Coavoux & Hovig Ter Minassian (2021), ["Les Français et les jeux. Un état des lieux"](https://books.openedition.org/ined/16475), in Emmanuelle Duwez & Pierre Mercklé (dirs.), *Un panel français. L'Étude longitudinale par internet pour les sciences sociales*, Paris: INED Éditions, p. 215-236.
 
 Samuel Coavoux, Igor Martinache & Pierre Mercklé (2019), ["Quand les sociologues entrent au musée"](http://catalogue-editions.ens-lyon.fr/resources/titles/29021100604470/extras/Passeron_Preface.pdf), préface à Jean-Claude Passeron & Emmanuel Pedler, *Le temps donné aux tableaux*, Lyon: ENS Éditions, p. 9-38.
 
