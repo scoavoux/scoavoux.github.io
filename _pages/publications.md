@@ -22,8 +22,6 @@ author_profile: true
 
 Samuel Coavoux & Abel Aussant, ["The Netflix omnivore. The effect of streaming platforms on cultural diversity and inequalities"](https://osf.io/preprints/socarxiv/dycwz).
 
-Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg, ["Machine bias. How do Generative Language Models Answer Opinion Polls?"](https://osf.io/preprints/socarxiv/r2pnb).
-
 ## Livres / Books
 
 Florence Eloy (dir.), Stéphane Bonnéry, Samuel Coavoux, Rémi Deslyper, Frédérique Giraud, Tomas Legon, Muriel Mille & Véronique Soulé (2022), [*Comment la culture vient aux enfants. Repenser les médiations*](https://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100681300), Paris, Presses de Sciences Po, Ministère de la Culture.
@@ -32,7 +30,13 @@ Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon 
 
 ## Articles
 
-Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2023). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*.
+Étienne Ollion, Julien Boelaert, Samuel Coavoux, Estelle Delaine, Altaïr Despres, Sibylle Gollac, Narguesse Keyhani, & Adèle Momméja (Accepted), [La part du genre. Genre et approche intersectionnelle dans les revues de sciences sociales françaises au XXème siècle](https://osf.io/qamux_v2). *Actes de la recherche en sciences sociales*.
+
+Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg (2025), ["Machine Bias. How Do Generative Language Models Answer Opinion Polls?"](https://doi.org/10.1177/0049124125133058). *Sociological Methods & Research*.
+
+Yann Renisio, Amélie Beaumont, Jean-Samuel Beuscart, Samuel Coavoux, Philippe Coulangeon, Robin Cura, Brenda Le Bigot, Manuel Moussallam, Camille Roth & Thomas Louail, [Integrating digital data into mixed methods designs](https://shs.cairn.info/revue-francaise-de-sociologie-2024-1-2-page-129?lang=en), *Revue Française de Sociologie*, 65(1-2), p. 129-159.
+
+Thomas Beauvisage, Jean-Samuel Beuscart, Samuel Coavoux & Kevin Mellet (2024). ["How online advertising targets consumers. The uses of categories and algorithmic tools by audience planners"](https://journals.sagepub.com/doi/10.1177/14614448221146174). *New Media & Society*, 26(10), 6098-6119.
 
 Jean-Samuel Beuscart, Samuel Coavoux & Jean-Baptiste Garrocq (2023). ["Listening to music videos onYouTube. Digital consumption practices and the environmental impact of streaming"](https://journals.sagepub.com/doi/full/10.1177/14695405221133266). *Journal of Consumer Culture*, 23(3), 654-671.
 
