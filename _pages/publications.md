@@ -18,10 +18,6 @@ author_profile: true
 <!--A list limited to publications in English can be found [here]({{base_path}}/publications_en.html).
 -->
 
-## Working Papers
-
-Samuel Coavoux & Abel Aussant, ["The Netflix omnivore. The effect of streaming platforms on cultural diversity and inequalities"](https://osf.io/preprints/socarxiv/dycwz).
-
 ## Livres / Books
 
 Florence Eloy (dir.), Stéphane Bonnéry, Samuel Coavoux, Rémi Deslyper, Frédérique Giraud, Tomas Legon, Muriel Mille & Véronique Soulé (2022), [*Comment la culture vient aux enfants. Repenser les médiations*](https://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100681300), Paris, Presses de Sciences Po, Ministère de la Culture.
@@ -30,9 +26,11 @@ Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon 
 
 ## Articles
 
-Étienne Ollion, Julien Boelaert, Samuel Coavoux, Estelle Delaine, Altaïr Despres, Sibylle Gollac, Narguesse Keyhani, & Adèle Momméja (Accepted), [La part du genre. Genre et approche intersectionnelle dans les revues de sciences sociales françaises au XXème siècle](https://osf.io/qamux_v2). *Actes de la recherche en sciences sociales*.
+Samuel Coavoux & Abel Aussant (2025), ["Streaming Platforms, Filter Bubbles, and Cultural Inequalities. How Online Services Increase Consumption Diversity"](http://dx.doi.org/10.15195/v12.a24). *Sociological Science*, 12(24).
 
-Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg (2025), ["Machine Bias. How Do Generative Language Models Answer Opinion Polls?"](https://doi.org/10.1177/0049124125133058). *Sociological Methods & Research*.
+Étienne Ollion, Julien Boelaert, Samuel Coavoux, Estelle Delaine, Altaïr Despres, Sibylle Gollac, Narguesse Keyhani, & Adèle Momméja (2025), [La part du genre. Genre et approche intersectionnelle dans les revues de sciences sociales françaises au XXème siècle](https://osf.io/qamux_v2). *Actes de la recherche en sciences sociales*, 258-259, p. 126-145.
+
+Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg (2025), ["Machine Bias. How Do Generative Language Models Answer Opinion Polls?"](https://doi.org/10.1177/0049124125133058). *Sociological Methods & Research*, 54(3), 1156-1196.
 
 Yann Renisio, Amélie Beaumont, Jean-Samuel Beuscart, Samuel Coavoux, Philippe Coulangeon, Robin Cura, Brenda Le Bigot, Manuel Moussallam, Camille Roth & Thomas Louail, [Integrating digital data into mixed methods designs](https://shs.cairn.info/revue-francaise-de-sociologie-2024-1-2-page-129?lang=en), *Revue Française de Sociologie*, 65(1-2), p. 129-159.
 
