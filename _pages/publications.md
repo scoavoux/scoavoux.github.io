@@ -28,7 +28,7 @@ Hovig Ter Minassian, Vincent Berry, Manuel Boutet, Samuel Coavoux, Isabel Colon 
 
 Samuel Coavoux & Abel Aussant (2025), ["Streaming Platforms, Filter Bubbles, and Cultural Inequalities. How Online Services Increase Consumption Diversity"](http://dx.doi.org/10.15195/v12.a24). *Sociological Science*, 12(24).
 
-Étienne Ollion, Julien Boelaert, Samuel Coavoux, Estelle Delaine, Altaïr Despres, Sibylle Gollac, Narguesse Keyhani, & Adèle Momméja (2025), [La part du genre. Genre et approche intersectionnelle dans les revues de sciences sociales françaises au XXème siècle](https://osf.io/qamux_v2). *Actes de la recherche en sciences sociales*, 258-259, p. 126-145.
+Étienne Ollion, Julien Boelaert, Samuel Coavoux, Estelle Delaine, Altaïr Despres, Sibylle Gollac, Narguesse Keyhani, & Adèle Momméja (2025), [La part du genre. Genre et approche intersectionnelle dans les revues de sciences sociales françaises au XXème siècle](https://doi.org/10.3917/arss.258.0126). *Actes de la recherche en sciences sociales*, 258-259, p. 126-145.
 
 Julien Boelaert, Samuel Coavoux, Étienne Ollion, Ivaylo Petev & Patrick Präg (2025), ["Machine Bias. How Do Generative Language Models Answer Opinion Polls?"](https://doi.org/10.1177/0049124125133058). *Sociological Methods & Research*, 54(3), 1156-1196.
 
