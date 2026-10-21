@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a social scientist. I am currently an Associate Professor in the [Geneva School of Social Sciences](https://www.unige.ch/sciences-societe/) at the [University of Geneva](https://www.unige.ch). Before this, I graduated with a PhD in Sociology from ENS Lyon in 2016, and then worked for five years as a digital researcher at telecommunication company Orange in Paris.
+I am a social scientist. I am currently an Associate Professor in the [Geneva School of Social Sciences](https://www.unige.ch/sciences-societe/) at the [University of Geneva](https://www.unige.ch). Before this, I graduated with a PhD in Sociology from ENS Lyon in 2016, and then worked for five years as a digital researcher at telecommunication company Orange in Paris, and then as an Assistant Professor of Sociology at [ENSAE](https://ensae.fr) and a researcher at [Crest](https://crest.science) in the [CSS research group](https://www.css.cnrs.fr/) in Palaiseau, France.
 
 I work on cultural consumption, cultural inequalities, and digital culture, using computational social science and mixed methods. I have studied museum visitors, video game players, Twitch and Twitter influencers, digital advertisers, and users of streaming platforms.
 
